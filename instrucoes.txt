@@ -1,0 +1,3 @@
+Para compilar o programa via terminal usar: g++ main.cpp -o teste
+
+Para executá-lo: ./teste
